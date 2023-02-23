@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Endless_Runner_Game", "Endless_Runner_Game\Endless_Runner_Game.csproj", "{A512417B-CD52-4793-B06A-80FEC905E8CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A512417B-CD52-4793-B06A-80FEC905E8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A512417B-CD52-4793-B06A-80FEC905E8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A512417B-CD52-4793-B06A-80FEC905E8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A512417B-CD52-4793-B06A-80FEC905E8CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {121A61F8-1916-4A1B-A5F8-387DD7DF0DF8}
+	EndGlobalSection
+EndGlobal
